@@ -1,0 +1,8 @@
+{
+	"prefix": "!",
+	"token": "INSERT YOUR BOT TOKEN HERE",
+	"bot_info": {
+		"name": "MarBot",
+		"version": 1.0
+	}
+}
